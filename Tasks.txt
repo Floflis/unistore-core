@@ -1,0 +1,18 @@
+Command 'rust' not found, did you mean:
+
+  command 'dust' from snap dust (v0.6.2)
+  command 'rush' from deb rush (1.8+dfsg-1.1)
+  command 'rst' from deb bro-aux (0.42-1)
+  command 'rustc' from deb rustc (1.53.0+dfsg1+llvm-4ubuntu1~20.04.1)
+  command 'trust' from deb p11-kit (0.23.20-1ubuntu0.1)
+
+See 'snap info <snapname>' for additional versions.
+------------------------------------------------------
+Command 'lutris' not found, did you mean:
+
+  command 'ltris' from deb ltris (1.0.19-3build1)
+
+Try: sudo apt install <deb name>
+------------------------------------------------------
+/usr/lib/command-not-found
+/etc/bash.bashrc (near line 56)
