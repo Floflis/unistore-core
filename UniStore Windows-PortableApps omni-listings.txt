@@ -1,0 +1,53 @@
+UniStore listed apps to update on Windows:
+7-Zip (also at PortableApps?)
+Git
+Firefox (also at PortableApps - integrated with Firedoge)
+Brave (also at PortableApps/Portapps - integrated with Firedoge)
+Rufus (also at PortableApps)
+OBS Studio (also at PortableApps)
+Filezilla (also at PortableApps)
+uTorrent (also at PortableApps - integrated with Transmission)
+Notepad++ (also at PortableApps - integrated with Notepadqq and davidWriter)
+Free Download Manager (also at PortableApps - integrated with Floflis' own DM)
+Money Manager Ex (also at PortableApps)
+Transmission (also at PortableApps)
+SSD-Z (also at PortableApps)
+HandBrake (also at PortableApps/Portapps)
+OpenShot (also at PortableApps)
+Telegram Desktop (also at PortableApps)
+Whatsapp Desktop (also at PortableApps/Portapps)
+Geany (also at PortableApps)
+Postman (also at PortableApps/Portapps)
+VSCodium (also at PortableApps/Portapps)
+Blender (also at PortableApps)
+PngOptimizer (also at PortableApps)
+Caprine (also at PortableApps/Portapps)
+Discord (also at PortableApps/Portapps)
+DiscordPTB (also at PortableApps/Portapps)
+Element (also at PortableApps/Portapps)
+Ferdi (also at PortableApps/Portapps)
+Franz (also at PortableApps/Portapps)
+Pidgin (also at PortableApps)
+Rocket.Chat (also at PortableApps/Portapps)
+Skype (also at PortableApps/Portapps)
+Thunderbird (also at PortableApps)
+Audacity (also at PortableApps)
+Linux MultiMedia Studio (also at PortableApps)
+VLC Media Player (also at PortableApps)
+sfxr, GXSCC
+KeePassSX (also at PortableApps)
+balenaEtcher (also at PortableApps)
+CPU-Z (also at PortableApps)
+GPU-Z (also at PortableApps)
+
+other apps to list - see my PortableApps Platform lists
+
+Old infrequently-updated apps: Desktop Reminder 2, GIF Movie Gear
+Chespirito games
+
+IPFS Desktop (Linux, Windows)
+Frame (Linux, Windows)
+RetroArch (Linux, Windows)
+GitHub Desktop (Windows, Linux)
+Microsoft Teams (Windows, Linux)
+Microsoft Edge (Windows, Linux)

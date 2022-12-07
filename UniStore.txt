@@ -1,0 +1,45 @@
+- UniStore for .sh (use Web3Updater)
+- Centralized JSON with list of .deb (command that opens it)
+- Centralized JSON with list of .exe (mark compatibility with WINE and Windows version)
+- unistore install exe/deb
+
+UniStore server
+- get data from Flf server
+- local app updates its repo/listing index from the server
+- eth addresses with signature to publish/update assets
+- sell apps/games/etc for FLOF
+
+Flf NFT Backgrounds factory:
+- ERC-1155
+- Addresses permitted to mint (bg.unistore.eth)
+
+UniStore
+ipfs folder+ens (like W3U uses) containing all of the category and listings. These also contain an up-to-date index file which is downloaded, and this folder uses GIPFS.
+UniStore: update apk-only apps, such as Axie Infinity and Ronin (use shrdchn)
+
+Firedoge start page: news and record snapshot of the page using your own CmnChn
+
+unistore: fx addons, lnx/wnds apps
+unistore: lnx/wnds apps
+
+- UniStore loop reads cache JSON of Cinnamon extensions
+- sh loops into every Cinnamon extension (sys or user) and forms a JSON list so Floflis Central can read (also know which ones are installed - hide mark extensions)
+
+- UniStore loop reads cache JSON of Cinnamon desklets
+- sh loops into every Cinnamon desklet (sys or user) and forms a JSON list so Floflis Central can read (also know which ones are installed - ovhide zb desklets)
+
+- UniStore loop reads cache JSON of Cinnamon applets
+- sh loops into every Cinnamon applet (sys or user) and forms a JSON list so Floflis Central can read (also know which ones are installed - ovhide zb applets)
+
+- UniStore: first listing category: C2 addons by their IDs, with "UniStore 3rd-party listing" as publisher
+
+- UniStore: listing category: Firefox/Firedoge addons, with New Tab as first. Message: all addons will be available soon, through Common/Sharedchain (once Sharedchain/Sharedpoint receives support to validation/consensus)
+
+- UniStore: listing category: Floflis Applications: apps and games
+- UniStore UI for its core
+- UniStore uses Web3Updater (wrapped into UniStore Update like Floflis Update) to update assets
+- UniStore listed at UniStore with Plasmmer as publisher
+
+- UniStore: Firefox themes (.git) and addons; KaiOS packages
+
+UniStore "Play app/game" before installing (sandbox mode)
